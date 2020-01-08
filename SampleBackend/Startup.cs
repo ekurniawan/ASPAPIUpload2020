@@ -18,6 +18,7 @@ namespace SampleBackend
 {
     public class Startup
     {
+        //menambahkan upload
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
